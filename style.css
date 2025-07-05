@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: Optima, sans-serif;
+}
+
+p {
+    color: darkblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 60px;
+}
